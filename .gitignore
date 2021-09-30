@@ -11,5 +11,7 @@ gradle/
 #VS Code
 .vscode
 .factorypath
+.classpath
+.project
 # Local environment
 .env
