@@ -1,0 +1,15 @@
+# Gradle
+.gradle/
+build/
+
+# Java class files
+*.class
+# generated files
+bin/
+gen/
+gradle/
+#VS Code
+.vscode
+.factorypath
+# Local environment
+.env
