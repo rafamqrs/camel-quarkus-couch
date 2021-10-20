@@ -14,7 +14,7 @@ public class CouchDbRouter extends RouteBuilder{
     @Override
     public void configure() throws Exception {
 
-        from("file:/home/rmarques/Documents/workspace-integration/camel-quarkus-couchdb/src/main/resources/data?noop=true")
+        from("file:/tmp/data?noop=true")
         .routeId("insertFruit")
         .convertBodyTo(String.class)
 //        .setHeader("CouchDbMethod", "delete") Set the Header with CouchDdMethod and value (delete / update)
