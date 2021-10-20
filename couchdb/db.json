@@ -1,4 +1,0 @@
-{"total_rows":2,"offset":0,"rows":[
-{"id":"b8aca83a883cfe2a4aa322f5ed003e44","key":"b8aca83a883cfe2a4aa322f5ed003e44","value":{"rev":"1-c0f102fc741a6252af6b3a58f0d8496c"},"doc":{"_id":"b8aca83a883cfe2a4aa322f5ed003e44","_rev":"1-c0f102fc741a6252af6b3a58f0d8496c","name":"Apple","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/265px-Red_Apple.jpg","price":35}},
-{"id":"b8aca83a883cfe2a4aa322f5ed004d36","key":"b8aca83a883cfe2a4aa322f5ed004d36","value":{"rev":"1-ecbaae8d9cba3ac7ff5b54de9208d60a"},"doc":{"_id":"b8aca83a883cfe2a4aa322f5ed004d36","_rev":"1-ecbaae8d9cba3ac7ff5b54de9208d60a","name":"Banana","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bananas_white_background_DS.jpg/320px-Bananas_white_background_DS.jpg","price":12}}
-]}
